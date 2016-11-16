@@ -13,5 +13,7 @@ Deberá cargar una imagen que contenga billetes de Bolívares desde el botón "C
 
 ## Integrantes
 
-**José Manuel Alvarez García - CI 25038805**\
+**José Manuel Alvarez García - CI 25038805**
+
+
 **José Gregorio Castro Lazo - CI 24635907**
