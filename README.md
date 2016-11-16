@@ -9,7 +9,7 @@ Esta tarea fue desarrollada en el lenguaje Java (versión 8.0.91) bajo el IDE Ne
 
 Puede ser ejecutada como un proyecto en el IDE NetBeans cargando la carpeta "ide".
 
-Deberá cargar una imagen que contenga billetes de Bolívares desde el botón "Cargar" y presionar el botón "Procesar" para obtener el monto reconocido.
+Deberá cargar una imagen que contenga billetes de Bolívares desde el botón "Cargar" y presionar el botón "Procesar" para obtener el monto total de los mismos.
 
 ## Integrantes
 
